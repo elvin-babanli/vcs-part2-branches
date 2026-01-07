@@ -1,13 +1,13 @@
 # Version Control Systems — Part 2 (GitHub + Branching)
 
-Python Basic homework (Module: Version Control Systems, Part 2).  
+Python (Module: Version Control Systems, Part 2).  
 This repository demonstrates practical Git workflows: repository setup, branching, merging, and conflict resolution.
 
 ---
 
 ## ✅ Tasks Completed
 
-| Task | Goal | Evidence |
+| Steps | Goal | Evidence |
 |------|------|----------|
 | 1 | Use GitHub (create/use account + repository) | *https://github.com/elvin-babanli/vcs-part2-branches* |
 | 2 | Create a folder structure with subfolders and files | ![Task 2](screenshots/Task_2.png) |
@@ -34,11 +34,10 @@ This repository demonstrates practical Git workflows: repository setup, branchin
 ---
 
 ## 📌 Repository Structure
-
 vcs-part2-branches/
 ├── folderA/
 ├── folderB/
-├── folderC/ (created in newbranch)
-├── folderD/ (created in main)
+├── folderC/ # created in newbranch
+├── folderD/ # created in main
 ├── screenshots/
 └── README.md

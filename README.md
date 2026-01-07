@@ -31,13 +31,4 @@ This repository demonstrates practical Git workflows: repository setup, branchin
 - `git merge main`
 - conflict resolution + merge commit
 
----
 
-## 📌 Repository Structure
-vcs-part2-branches/
-├── folderA/
-├── folderB/
-├── folderC/ # created in newbranch
-├── folderD/ # created in main
-├── screenshots/
-└── README.md

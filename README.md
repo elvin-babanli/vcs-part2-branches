@@ -9,7 +9,7 @@ This repository demonstrates practical Git workflows: repository setup, branchin
 
 | Task | Goal | Evidence |
 |------|------|----------|
-| 1 | Use GitHub (create/use account + repository) | *(GitHub repo link)* |
+| 1 | Use GitHub (create/use account + repository) | *https://github.com/elvin-babanli/vcs-part2-branches* |
 | 2 | Create a folder structure with subfolders and files | ![Task 2](screenshots/Task_2.png) |
 | 3 | Create a repository in the main folder | ![Task 3](screenshots/Task_3.png) |
 | 4 | Stage all files using `git add` | ![Task 4](screenshots/Task_4.png) |
@@ -35,3 +35,10 @@ This repository demonstrates practical Git workflows: repository setup, branchin
 
 ## 📌 Repository Structure
 
+vcs-part2-branches/
+├── folderA/
+├── folderB/
+├── folderC/ (created in newbranch)
+├── folderD/ (created in main)
+├── screenshots/
+└── README.md

@@ -2,7 +2,6 @@
 
 Python (Module: Version Control Systems, Part 2).  
 This repository demonstrates practical Git workflows: repository setup, branching, merging, and conflict resolution.
-
 ---
 
 ## ✅ Tasks Completed
